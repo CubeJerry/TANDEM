@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 
-title: "TANDEM: ThamLab Algorithmic Nanobody Design and Evaluation Method"
+title: "TANDEM: A High-Performance Computing Workflow for Nanobody Design and Evaluation"
 
 authors:
   - family-names: Chen
@@ -11,7 +11,7 @@ authors:
       - "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia"
       - "Department of Medical Biology, The University of Melbourne, Melbourne, Australia"
 
-abstract: "A high-performance computing workflow for nanobody design, optimisation, and evaluation."
+abstract: "TANDEM, the ThamLab Algorithmic Nanobody Design and Evaluation Method, is a high-performance computing workflow for nanobody design, optimisation, and evaluation."
 
 repository-code: "https://github.com/CubeJerry/TANDEM"
 license: MIT
