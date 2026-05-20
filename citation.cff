@@ -1,17 +1,30 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
-title: "TANDEM"
+message: "If you use this software, please cite it as below."
+type: software
+
+title: "TANDEM: ThamLab Algorithmic Nanobody Design and Evaluation Method"
+
 authors:
-  - name: "TANDEM Contributors"
-version: 0.1.0
-date-released: 2026-05-20
-url: "https://github.com/<owner>/TANDEM"
-identifiers:
-  - type: doi
-    value: "10.0000/tandem.pending"
-    description: "Placeholder DOI; replace with the registered DOI when available."
-license: "MIT"
-abstract: "Repository-level citation metadata for TANDEM."
+  - family-names: Chen
+    given-names: Jerry
+    affiliation:
+      - "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia"
+      - "Department of Medical Biology, The University of Melbourne, Melbourne, Australia"
+
+abstract: "A high-performance computing workflow for nanobody design, optimisation, and evaluation."
+
+repository-code: "https://github.com/CubeJerry/TANDEM"
+license: MIT
+
+version: "1.0.0"
+date-released: "2026-05-20"
+
 keywords:
-  - tandem
-  - software
+  - nanobody design
+  - protein design
+  - computational biology
+  - antibody engineering
+  - high-performance computing
+  - structural biology
+  - BoltzGen
+  - FoldX
