@@ -11,7 +11,6 @@ authors:
       - "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia"
       - "Department of Medical Biology, The University of Melbourne, Melbourne, Australia"
 
-abstract: "TANDEM, the ThamLab Algorithmic Nanobody Design and Evaluation Method, is a high-performance computing workflow for nanobody design, optimisation, and evaluation."
 
 repository-code: "https://github.com/CubeJerry/TANDEM"
 license: MIT
