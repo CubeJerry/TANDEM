@@ -4,7 +4,7 @@ type: software
 
 title: "TANDEM: A High-Performance Computing Workflow for Nanobody Design and Evaluation"
 
-abstract: "TANDEM, the ThamLab Algorithmic Nanobody Design and Evaluation Method, is a high-performance computing workflow for nanobody design, optimisation and evaluation."
+abstract: "TANDEM, the ThamLab Algorithmic Nanobody Design and Evaluation Method, is a SLURM-based high-performance computing workflow for nanobody design, optimisation and evaluation."
 
 authors:
   - family-names: Chen
