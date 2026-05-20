@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "TANDEM"
+authors:
+  - name: "TANDEM Contributors"
+version: 0.1.0
+date-released: 2026-05-20
+url: "https://github.com/<owner>/TANDEM"
+identifiers:
+  - type: doi
+    value: "10.0000/tandem.pending"
+    description: "Placeholder DOI; replace with the registered DOI when available."
+license: "MIT"
+abstract: "Repository-level citation metadata for TANDEM."
+keywords:
+  - tandem
+  - software
