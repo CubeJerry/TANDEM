@@ -7,19 +7,21 @@ title: "TANDEM: A High-Performance Computing Workflow for Nanobody Design and Ev
 abstract: "TANDEM, the ThamLab Algorithmic Nanobody Design and Evaluation Method, is a SLURM-based high-performance computing workflow for nanobody design, optimisation and evaluation."
 
 authors:
-  - family-names: Chen
-    given-names: Jerry
+  - family-names: "Chen"
+    given-names: "Jerry"
     orcid: "https://orcid.org/0009-0003-4936-223X"
     affiliation:
       - "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia"
       - "Department of Medical Biology, The University of Melbourne, Melbourne, Australia"
 
-
 repository-code: "https://github.com/CubeJerry/TANDEM"
-license: MIT
+repository-artifact: "https://doi.org/10.5281/zenodo.20320302"
+doi: "10.5281/zenodo.20320302"
 
-version: "1.0.0"
-date-released: "2026-05-20"
+license: "MIT"
+
+version: "1.2.5-beta"
+date-released: "2026-05-21"
 
 keywords:
   - nanobody design
@@ -30,6 +32,7 @@ keywords:
   - structural biology
   - BoltzGen
   - FoldX
+  - SLURM
 
 preferred-citation:
   type: software
@@ -41,6 +44,11 @@ preferred-citation:
       affiliation:
         - "The Walter and Eliza Hall Institute of Medical Research, Parkville, Australia"
         - "Department of Medical Biology, The University of Melbourne, Melbourne, Australia"
-  url: "https://github.com/CubeJerry/TANDEM"
-  version: "1.0.0"
+
+  doi: "10.5281/zenodo.20320302"
+  url: "https://doi.org/10.5281/zenodo.20320302"
+
+  repository-code: "https://github.com/CubeJerry/TANDEM"
+
+  version: "1.2.5-beta"
   year: 2026
